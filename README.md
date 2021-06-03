@@ -1,1 +1,1 @@
-# My React App
+[My React App](http://localhost:3000/)
